@@ -21,6 +21,8 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - urllib
+  - os
   - pip
   - pip:
     - matplotlib
